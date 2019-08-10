@@ -34,3 +34,6 @@
 [submodule "tree-magisk-module"]
 	path = tree-magisk-module
 	url = https://github.com/henriknelson/tree-magisk-module
+[submodule "toilet-magisk-module"]
+	path = toilet-magisk-module
+	url = https://github.com/henriknelson/toilet-magisk-module
