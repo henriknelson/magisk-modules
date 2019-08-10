@@ -1,0 +1,30 @@
+[submodule "ssh-scp-magisk-module"]
+	path = ssh-scp-magisk-module
+	url = https://github.com/henriknelson/ssh-scp-magisk-module
+[submodule "bash-magisk-module"]
+	path = bash-magisk-module
+	url = https://github.com/henriknelson/bash-magisk-module
+[submodule "bat-magisk-module"]
+	path = bat-magisk-module
+	url = https://github.com/henriknelson/bat-magisk-module
+[submodule "busybox-magisk-module"]
+	path = busybox-magisk-module
+	url = https://github.com/henriknelson/busybox-magisk-module
+[submodule "binutils-magisk-module"]
+	path = binutils-magisk-module
+	url = https://github.com/henriknelson/binutils-magisk-module
+[submodule "coreutils-magisk-module"]
+	path = coreutils-magisk-module
+	url = https://github.com/henriknelson/coreutils-magisk-module
+[submodule "fd-magisk-module"]
+	path = fd-magisk-module
+	url = https://github.com/henriknelson/fd-magisk-module
+[submodule "nano-magisk-module"]
+	path = nano-magisk-module
+	url = https://github.com/henriknelson/nano-magisk-module
+[submodule "neofetch-magisk-module"]
+	path = neofetch-magisk-module
+	url = https://github.com/henriknelson/neofetch-magisk-module
+[submodule "git-magisk-module"]
+	path = git-magisk-module
+	url = https://github.com/henriknelson/git-magisk-module
