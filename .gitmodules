@@ -31,3 +31,6 @@
 [submodule "zip-magisk-module"]
 	path = zip-magisk-module
 	url = https://github.com/henriknelson/zip-magisk-module
+[submodule "tree-magisk-module"]
+	path = tree-magisk-module
+	url = https://github.com/henriknelson/tree-magisk-module
