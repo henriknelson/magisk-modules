@@ -1,0 +1,20 @@
+#/bin/bash
+
+cd $1-magisk-module;
+
+#cp module.prop module.prop.bak
+# module.prop
+#cat module.prop.bak | while read line; do
+#    if echo "$line" | grep -q "versionCode=\d+"; then
+#	 echo hahah
+#    else 
+#	echo $line
+#     fi
+#done
+
+#exit;
+# Update versionCode
+#perl -i -pe 's/versionCode=(\d+)/$(echo $1+1)/eem' module.prop
+
+[[ -f ../out/$1-module.zip ]] && rm ../out/$1-module.zip;
+zip --symlinks -r ../out/$1-module.zip . -x "*.bak" -x "*.save" -x ".git*";
