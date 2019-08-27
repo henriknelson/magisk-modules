@@ -1,0 +1,7 @@
+#/bin/bash
+./clean;
+for dir in $(fd -t d --maxdepth 1 .*module); do
+	mod_name=$(echo $dir | sed 's/-/ /g' | awk '{printf $1}');
+	echo "Building module: $mod_name";
+	./build $mod_name;
+done
