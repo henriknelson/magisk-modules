@@ -58,3 +58,6 @@
 [submodule "bbk-magisk-module"]
 	path = bbk-magisk-module
 	url = https://github.com/henriknelson/bbk-magisk-module.git
+[submodule "unrar-magisk-module"]
+	path = unrar-magisk-module
+	url = https://github.com/henriknelson/unrar-magisk-module.git
