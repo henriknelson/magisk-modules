@@ -55,3 +55,6 @@
 [submodule "openssh-magisk-module"]
 	path = openssh-magisk-module
 	url = https://github.com/henriknelson/opensshd-magisk-module.git
+[submodule "bbk-magisk-module"]
+	path = bbk-magisk-module
+	url = https://github.com/henriknelson/bbk-magisk-module.git
