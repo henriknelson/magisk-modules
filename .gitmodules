@@ -1,6 +1,3 @@
-[submodule "ssh-scp-magisk-module"]
-	path = ssh-scp-magisk-module
-	url = https://github.com/henriknelson/ssh-scp-magisk-module
 [submodule "bash-magisk-module"]
 	path = bash-magisk-module
 	url = https://github.com/henriknelson/bash-magisk-module
