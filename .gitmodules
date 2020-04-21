@@ -48,7 +48,7 @@
 	url = ./cmatrix-magisk-module
 [submodule "nmap-magisk-module"]
 	path = nmap-magisk-module
-	url = ./nmap-magisk-module/
+	url = ttps://github.com/henriknelson/nmap-magisk-module
 [submodule "dnsmasq-magisk-module"]
 	path = dnsmasq-magisk-module
 	url = https://github.com/henriknelson/dnsmasq-magisk-module.git
