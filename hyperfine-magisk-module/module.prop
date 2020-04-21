@@ -1,0 +1,6 @@
+id=hyperfine-nelshh
+name=hyperfine for Android
+version=v1.9.0
+versionCode=1
+author=nelshh
+description=A statically built version of the hyperfine tool for android (aarch64)

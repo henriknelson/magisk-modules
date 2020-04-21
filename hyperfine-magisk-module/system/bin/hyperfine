@@ -1,0 +1,15 @@
+#!/system/bin/sh
+# hyperfine: wrapper to set up and run hyperfine from terminal
+# nelshh @ xda-developers
+
+dir="$(cd "$(dirname "$0")"; pwd)";
+
+if [ "$1" == "--term" ]; then
+  term=$2;
+  shift 2;
+else
+  term=screen;
+fi;
+
+[[ -s "resize" ]] && resize >/dev/null;
+TERMINFO=$dir/../usr/share/terminfo TERM=$term $dir/hyperfine.bin "$@"
