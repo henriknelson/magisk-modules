@@ -45,7 +45,7 @@
 	url = https://github.com/henriknelson/sqlite3-magisk-module
 [submodule "cmatrix-magisk-module"]
 	path = cmatrix-magisk-module
-	url = ./cmatrix-magisk-module
+	url = ttps://github.com/henriknelson/cmatrix-magisk-module
 [submodule "nmap-magisk-module"]
 	path = nmap-magisk-module
 	url = ttps://github.com/henriknelson/nmap-magisk-module
