@@ -64,3 +64,6 @@
 [submodule "pastel-magisk-module"]
 	path = pastel-magisk-module
 	url = ttps://github.com/henriknelson/pastel-magisk-module
+[submodule "opensshd-magisk-module"]
+	path = opensshd-magisk-module
+	url = https://github.com/henriknelson/opensshd-magisk-module.git
