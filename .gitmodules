@@ -61,3 +61,6 @@
 [submodule "unrar-magisk-module"]
 	path = unrar-magisk-module
 	url = https://github.com/henriknelson/unrar-magisk-module.git
+[submodule "pastel-magisk-module"]
+	path = pastel-magisk-module
+	url = ttps://github.com/henriknelson/pastel-magisk-module
