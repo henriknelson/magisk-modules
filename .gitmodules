@@ -52,9 +52,6 @@
 [submodule "dnsmasq-magisk-module"]
 	path = dnsmasq-magisk-module
 	url = https://github.com/henriknelson/dnsmasq-magisk-module.git
-[submodule "openssh-magisk-module"]
-	path = openssh-magisk-module
-	url = https://github.com/henriknelson/opensshd-magisk-module.git
 [submodule "bbk-magisk-module"]
 	path = bbk-magisk-module
 	url = https://github.com/henriknelson/bbk-magisk-module.git
@@ -67,3 +64,6 @@
 [submodule "opensshd-magisk-module"]
 	path = opensshd-magisk-module
 	url = https://github.com/henriknelson/opensshd-magisk-module.git
+[submodule "nyancat-magisk-module"]
+	path = nyancat-magisk-module
+	url = ottps://github.com/henriknelson/nyancat-magisk-module.git
