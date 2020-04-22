@@ -10,7 +10,7 @@ MODDIR=${0%/*}
 #[ -f /data/ssh/no-autostart ] || $MODDIR/system/bin/opensshd start
 #mount -o rw,remount /system;
 mount -o rw,remount /system/etc;
-echo "libperl.so" >> /etc/public.libraries.txt;
-echo "Fcntl.so" >> /etc/public.libraries.txt;
+echo "libperl.so" >> /etc/ld.config.txt;
+echo "Fcntl.so" >> /etc/ld.config.txt;
 mount -o ro,remount /system/etc;
 #mount -o ro,remount /system;

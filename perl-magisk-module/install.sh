@@ -146,16 +146,21 @@ set_permissions() {
   find $MODPATH/system/bin -type f -exec chmod 755 {} \+;
   find $MODPATH/system/bin -type l -exec chmod 755 {} \+;
 
-  ui_print "[4/6] Installing to /system/lib64..";
-  chown -R 0:0 $MODPATH/system/lib64;
-  chmod 755 $MODPATH/system/lib64;
-  find $MODPATH/system/lib64 -type d -exec chmod 755 {} \+;
-  find $MODPATH/system/lib64 -type f -exec chmod 644 {} \+;
-  find $MODPATH/system/lib64 -type l -exec chmod 644 {} \+;
+  ui_print "[4/6] Installing to /data/perl..";
+  mkdir -p /data/perl;
+  cp -r $MODPATH/custom/perl/* /data/perl/;
+  chown -R root:shell /data/perl;
+  chmod -R 755 /data/perl;
+  #chown -R 0:0 $MODPATH/system/lib64;
+  #chmod 755 -R $MODPATH/system/lib64;
+  find /data/perl -type d -exec chmod 755 {} \+;
+  find /data/perl -type f -exec chmod 755 {} \+;
+  find /data/perl -type l -exec chmod 755 {} \+;
 
-  ln -sf $MODPATH/system/lib64/perl5/5.30.2/aarch64-android/CORE $MODPATH/include/perl;
-  ln -sf $MODPATH/system/lib64/perl5/5.30.2/aarch64-android/CORE/libperl.so $MODPATH/lib64/libperl.so;
-  ln -sf $MODPATH/system/lib64/perl5/5.30.2/aarch64-android/CORE/libperl.so $MODPATH/lib/libperl.so;
+  #ln -sf $MODPATH/system/lib64/perl5/5.30.2/aarch64-android/CORE $MODPATH/include/perl;
+  #ln -sf $MODPATH/system/lib64/perl5/5.30.2/aarch64-android/CORE/libperl.so $MODPATH/lib64/libperl.so;
+  #ln -sf $MODPATH/system/lib64/perl5/5.30.2/aarch64-android/CORE/libperl.so $MODPATH/lib/libperl.so;
+
 
   #ui_print "[4/6] Installing to /system/etc..";
   #chown -R 0:0 $MODPATH/system/etc;
