@@ -1,4 +1,0 @@
-#!/bin/bash
-adb connect 192.168.100.10:5555
-sendstr="adb -s 192.168.100.10:5555 push out/$1-module.zip /sdcard"
-$sendstr

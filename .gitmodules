@@ -42,10 +42,10 @@
 	url = https://github.com/henriknelson/sqlite3-magisk-module
 [submodule "cmatrix-magisk-module"]
 	path = cmatrix-magisk-module
-	url = ttps://github.com/henriknelson/cmatrix-magisk-module
+	url = https://github.com/henriknelson/cmatrix-magisk-module
 [submodule "nmap-magisk-module"]
 	path = nmap-magisk-module
-	url = ttps://github.com/henriknelson/nmap-magisk-module
+	url = https://github.com/henriknelson/nmap-magisk-module
 [submodule "dnsmasq-magisk-module"]
 	path = dnsmasq-magisk-module
 	url = https://github.com/henriknelson/dnsmasq-magisk-module.git
@@ -57,19 +57,22 @@
 	url = https://github.com/henriknelson/unrar-magisk-module.git
 [submodule "pastel-magisk-module"]
 	path = pastel-magisk-module
-	url = ttps://github.com/henriknelson/pastel-magisk-module
+	url = https://github.com/henriknelson/pastel-magisk-module
 [submodule "opensshd-magisk-module"]
 	path = opensshd-magisk-module
 	url = https://github.com/henriknelson/opensshd-magisk-module.git
 [submodule "nyancat-magisk-module"]
 	path = nyancat-magisk-module
-	url = ottps://github.com/henriknelson/nyancat-magisk-module.git
+	url = https://github.com/henriknelson/nyancat-magisk-module.git
 [submodule "hexyl-magisk-module"]
 	path = hexyl-magisk-module
 	url = https://github.com/henriknelson/hexyl-magisk-module
 [submodule "make-magisk-module"]
 	path = make-magisk-module
 	url = https://github.com/henriknelson/make-magisk-module
+[submodule "perl-magisk-module"]
+	path = perl-magisk-module
+	url = https://github.com/henriknelson/perl-magisk-module
 [submodule "python-magisk-module"]
 	path = python-magisk-module
 	url = https://github.com/henriknelson/python-magisk-module
