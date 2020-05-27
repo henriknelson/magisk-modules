@@ -73,3 +73,6 @@
 [submodule "python-magisk-module"]
 	path = python-magisk-module
 	url = https://github.com/henriknelson/python-magisk-module
+[submodule "ruby-magisk-module"]
+	path = ruby-magisk-module
+	url = https://github.com/henriknelson/ruby-magisk-module
