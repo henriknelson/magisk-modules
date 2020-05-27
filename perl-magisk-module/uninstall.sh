@@ -1,2 +1,0 @@
-rm -r /data/perl;
-
