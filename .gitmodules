@@ -48,22 +48,22 @@
 	url = https://github.com/henriknelson/nmap-magisk-module
 [submodule "dnsmasq-magisk-module"]
 	path = dnsmasq-magisk-module
-	url = https://github.com/henriknelson/dnsmasq-magisk-module.git
+	url = https://github.com/henriknelson/dnsmasq-magisk-module
 [submodule "bbk-magisk-module"]
 	path = bbk-magisk-module
-	url = https://github.com/henriknelson/bbk-magisk-module.git
+	url = https://github.com/henriknelson/bbk-magisk-module
 [submodule "unrar-magisk-module"]
 	path = unrar-magisk-module
-	url = https://github.com/henriknelson/unrar-magisk-module.git
+	url = https://github.com/henriknelson/unrar-magisk-module
 [submodule "pastel-magisk-module"]
 	path = pastel-magisk-module
 	url = https://github.com/henriknelson/pastel-magisk-module
 [submodule "opensshd-magisk-module"]
 	path = opensshd-magisk-module
-	url = https://github.com/henriknelson/opensshd-magisk-module.git
+	url = https://github.com/henriknelson/opensshd-magisk-module
 [submodule "nyancat-magisk-module"]
 	path = nyancat-magisk-module
-	url = https://github.com/henriknelson/nyancat-magisk-module.git
+	url = https://github.com/henriknelson/nyancat-magisk-module
 [submodule "hexyl-magisk-module"]
 	path = hexyl-magisk-module
 	url = https://github.com/henriknelson/hexyl-magisk-module
