@@ -82,3 +82,6 @@
 [submodule "strace-magisk-module"]
 	path = strace-magisk-module
 	url = https://github.com/henriknelson/strace-magisk-module
+[submodule "hyperfine-magisk-module"]
+	path = hyperfine-magisk-module
+	url = https://github.com/henriknelson/hyperfine-magisk-module
