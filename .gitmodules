@@ -85,3 +85,7 @@
 [submodule "hyperfine-magisk-module"]
 	path = hyperfine-magisk-module
 	url = https://github.com/henriknelson/hyperfine-magisk-module
+
+[submodule "ncdu-magisk-module"]
+	path = ncdu-magisk-module
+	url = https://github.com/henriknelson/ncdu-magisk-module
