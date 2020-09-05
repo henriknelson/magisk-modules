@@ -92,3 +92,6 @@
 [submodule "renameutils-magisk-module"]
 	path = renameutils-magisk-module
 	url = https://github.com/henriknelson/renameutils-magisk-module
+[submodule "progress-magisk-module"]
+	path = progress-magisk-module
+	url = https://github.com/henriknelson/progress-magisk-module
