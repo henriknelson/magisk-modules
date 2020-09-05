@@ -89,3 +89,6 @@
 [submodule "ncdu-magisk-module"]
 	path = ncdu-magisk-module
 	url = https://github.com/henriknelson/ncdu-magisk-module
+[submodule "renameutils-magisk-module"]
+	path = renameutils-magisk-module
+	url = https://github.com/henriknelson/renameutils-magisk-module
