@@ -95,3 +95,6 @@
 [submodule "progress-magisk-module"]
 	path = progress-magisk-module
 	url = https://github.com/henriknelson/progress-magisk-module
+[submodule "exa-magisk-module"]
+	path = exa-magisk-module
+	url = https://github.com/henriknelson/exa-magisk-module
