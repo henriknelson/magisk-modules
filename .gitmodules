@@ -107,3 +107,6 @@
 [submodule "lsd-magisk-module"]
 	path = lsd-magisk-module
 	url = https://github.com/henriknelson/lsd-magisk-module
+[submodule "croc-magisk-module"]
+	path = croc-magisk-module
+	url = https://github.com/henriknelson/croc-magisk-module
