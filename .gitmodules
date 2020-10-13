@@ -104,3 +104,6 @@
 [submodule "htop-magisk-module"]
 	path = htop-magisk-module
 	url = https://github.com/henriknelson/htop-magisk-module
+[submodule "lsd-magisk-module"]
+	path = lsd-magisk-module
+	url = https://github.com/henriknelson/lsd-magisk-module
