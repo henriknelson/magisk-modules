@@ -101,3 +101,6 @@
 [submodule "vivid-magisk-module"]
 	path = vivid-magisk-module
 	url = https://github.com/henriknelson/vivid-magisk-module.git
+[submodule "htop-magisk-module"]
+	path = htop-magisk-module
+	url = https://github.com/henriknelson/htop-magisk-module
