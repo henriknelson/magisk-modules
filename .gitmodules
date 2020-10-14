@@ -110,3 +110,6 @@
 [submodule "croc-magisk-module"]
 	path = croc-magisk-module
 	url = https://github.com/henriknelson/croc-magisk-module
+[submodule "github-cli-magisk-module"]
+	path = github-cli-magisk-module
+	url = https://github.com/henriknelson/github-cli-magisk-module
