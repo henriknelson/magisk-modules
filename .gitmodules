@@ -113,3 +113,6 @@
 [submodule "github-cli-magisk-module"]
 	path = github-cli-magisk-module
 	url = https://github.com/henriknelson/github-cli-magisk-module
+[submodule "fzf-magisk-module"]
+	path = fzf-magisk-module
+	url = https://github.com/henriknelson/fzf-magisk-module
