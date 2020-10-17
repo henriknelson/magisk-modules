@@ -116,3 +116,6 @@
 [submodule "fzf-magisk-module"]
 	path = fzf-magisk-module
 	url = https://github.com/henriknelson/fzf-magisk-module
+[submodule "gawk-magisk-module"]
+	path = gawk-magisk-module
+	url = https://github.com/henriknelson/gawk-magisk-module.git
