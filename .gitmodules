@@ -119,3 +119,6 @@
 [submodule "gawk-magisk-module"]
 	path = gawk-magisk-module
 	url = https://github.com/henriknelson/gawk-magisk-module.git
+[submodule "wireguard-tools-magisk-module"]
+	path = wireguard-tools-magisk-module
+	url = https://github.com/henriknelson/wireguard-tools-magisk-module.git
